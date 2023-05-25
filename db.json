@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product A update",
+      "price": 1,
+      "img": "anh"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 500,
+      "img": "anh"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 400,
+      "img": "anh"
+    },
+    {
+      "name": "123",
+      "price": 12,
+      "img": "123",
+      "id": 4
+    },
+    {
+      "name": "haha",
+      "price": 1,
+      "img": "1",
+      "id": 5
+    },
+    {
+      "name": "products ua",
+      "price": 1234,
+      "img": "JAFHOYUsgdfusDGF",
+      "id": 6
+    },
+    {
+      "name": "products test",
+      "price": 123,
+      "img": "JAFHOYUsgdfusDGF",
+      "id": 7
+    },
+    {
+      "name": "products test",
+      "price": 123,
+      "img": "JAFHOYUsgdfusDGF",
+      "id": 8
+    }
+  ]
+}
